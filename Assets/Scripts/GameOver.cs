@@ -21,7 +21,7 @@ public class GameOver : MonoBehaviour {
     }
     void Update ()
 	{
-		if (/*Input.GetButtonDown("Jump")*/ controlInput.Player.Jump.triggered)
+		if (controlInput.Player.Jump.triggered)
 		{
 			GameManager.instance.Restart();
 		}
