@@ -5,4 +5,4 @@
 - [x] Improve the game feel by adding visual feedback and/or game juice where necessary
 - [ ] Optimize the app size to a minimum of 15MB
 
-Gameplay video: []
+![Gameplay video](https://github.com/Detective-Khalifah/Shrinking-Planet/blob/main/VID_20230112_220654.mp4)
